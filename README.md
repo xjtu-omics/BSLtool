@@ -133,7 +133,7 @@ Final regions merged with distance smaller than MERGE_INTERVAL(500000). For visu
 ## Contact
 If you have any questions, please feel free to contact: gaoxian15002970749@163.com, xfyang@xjtu.edu.cn, kaiye@xjtu.edu.cn
 
-
-
+## Citation
+Shenghan Gao#, Yanyan Jia#, Hongtao Guo, Tun Xu, Bo Wang, Stephen J. Bush, Shijie Wan, Yimeng Zhang, Xiaofei Yang*, Kai Ye*, The centromere landscapes of four karyotypically diverse Papaver species provide insights into chromosome evolution and speciation, Cell Genomics 2024, 14;4(8):100626, https://doi.org/10.1016/j.xgen.2024.100626
 
 
